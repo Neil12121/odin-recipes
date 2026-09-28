@@ -1,4 +1,5 @@
-# odin-recipes
-The Odin Project Recipe Project
+# Odin Recipes
 
-Beginner HTML Recipe website project demonstrating skills / knowledge I've learned thus far.
+A recipe website created as part of The Odin Project.
+
+This beginner HTML project demonstrates the skills and knowledge I've learned so far, including HTML boilerplate, headings, paragraphs, links, images, ordered lists, unordered lists, and working with multiple pages.
